@@ -8,7 +8,7 @@
 - MSSV:2A20263044
 - Email:dinhthanhvinhnb205@gmail.com
 - Lớp:K5 Level 2 (ADAS)
-- Link repo bài làm: 
+- Link repo bài làm: https://github.com/vdprogramm/K5-L2-DAY02-DinhThanhVinh-2A20263044-ObjectDetection.git
 - Link Colab đã chạy: https://colab.research.google.com/drive/12NS-89YZsBAGTSIf4Kc30BsVH0PXiglP
 
 ## 2. Schema và mini guideline
